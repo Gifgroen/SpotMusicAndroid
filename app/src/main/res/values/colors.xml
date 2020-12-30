@@ -10,4 +10,7 @@
 
     <color name="white">#F5F5F5</color>
     <color name="black">#21272C</color>
+
+    <color name="background_gradient_start">#33383C</color>
+    <color name="background_gradient_end">#1E1E25</color>
 </resources>

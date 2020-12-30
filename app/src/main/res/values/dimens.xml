@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="splash_logo_size">192dp</dimen>
+
+    <dimen name="splash_logo_width">@dimen/splash_logo_size</dimen>
+    <dimen name="splash_logo_height">@dimen/splash_logo_size</dimen>
+</resources>
